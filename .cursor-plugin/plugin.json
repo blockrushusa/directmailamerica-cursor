@@ -1,0 +1,21 @@
+{
+  "name": "directmailamerica",
+  "displayName": "DirectMailAmerica",
+  "version": "2.4.0",
+  "description": "Quote, preview and mail letters, Certified Mail and full-color postcards to US addresses. Review the exact price and approve each mailing using existing workspace credits.",
+  "author": {
+    "name": "Rainmaker LLC",
+    "email": "support@directmailamerica.com"
+  },
+  "homepage": "https://directmailamerica.com/docs/mcp-narrow?utm_source=cursor&utm_medium=referral&utm_campaign=mcp_directories",
+  "repository": "https://github.com/blockrushusa/directmailamerica-cursor",
+  "license": "MIT",
+  "keywords": [
+    "mail",
+    "letters",
+    "postcards",
+    "printing",
+    "mcp"
+  ],
+  "logo": "assets/logo.png"
+}
